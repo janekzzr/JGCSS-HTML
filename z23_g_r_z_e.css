@@ -1,0 +1,39 @@
+p#pogrubienie_grzegorzak {
+    font-size: 35px;
+    font-weight: bold;
+    color: #924DCF;
+}
+
+p#pochylona_grzegorzak {
+    font-size: 40pt;
+    font-style: italic;
+    color: #F6C16B;
+}
+
+p#index_gorny_grzegorzak {
+    font-size: 1.5cm;
+    vertical-align: super;
+    color: #A68F1B;
+}
+
+p#index_dolny_grzegorzak {
+    font-size: 2.5cm;
+    vertical-align: sub;
+    color: rgb(26%, 95%, 89%);
+}
+
+p#mono_grzegorzak {
+    font-size: 45px;
+    font-family: monospace;
+    color: #26DF6B;
+}
+
+p#powiekszenie_grzegorzak {
+    font-size: larger;
+    color: #603F9D;
+}
+
+p#pomniejszenie_grzegorzak {
+    font-size: smaller;
+    color: rgb(77%, 64%, 22%);
+}
