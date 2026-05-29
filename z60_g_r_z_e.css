@@ -1,0 +1,30 @@
+ div#blok1{background-color: 00ff00;width:660px;} 
+                      
+ div#blok2{background-color: 00ff00;width:660px;} 
+                       
+ div#blok3{background-color: 00ff00;width:660px;} 
+
+
+
+
+div#blok1:hover{
+background-color:silver;
+width:604px;
+font-size: 20mm;
+
+
+    
+}
+div#blok2:hover{
+background-color:orange;
+width:604px;
+font-size: 20mm;
+
+    
+}
+div#blok3:hover{
+background-color:lightgreen ;
+width:604px;
+font-size: 20mm;
+    
+}
