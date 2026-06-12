@@ -1,0 +1,20 @@
+
+.akapit1::first-letter {
+    font-size: 120pt;
+    color: orange;
+    font-weight: bold;
+}
+
+
+.akapit2::first-letter {
+    font-size: 120pt;
+    color: orange;
+    font-weight: bold;
+}
+
+
+.akapit1,
+.akapit2 {
+    font-size: 20pt;
+}
+/*Grzegorzak*/
